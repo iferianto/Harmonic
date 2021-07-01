@@ -1,4 +1,4 @@
-﻿using Harmonic.Buffers;
+using Harmonic.Buffers;
 using Harmonic.Networking.Amf.Attributes;
 using Harmonic.Networking.Amf.Common;
 using Harmonic.Networking.Amf.Data;

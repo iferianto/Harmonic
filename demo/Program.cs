@@ -1,4 +1,4 @@
-﻿using Harmonic.Hosting;
+using Harmonic.Hosting;
 using System;
 using System.Net;
 
